@@ -35,6 +35,18 @@
     {
       "id": "Sheet13",
       "isDefault": false
+    },
+    {
+      "id": "USERS",
+      "isDefault": false
+    },
+    {
+      "id": "DISTRICT",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

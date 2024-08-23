@@ -1,0 +1,2 @@
+DELETE FROM PUBLIC.USERS
+  WHERE EMAIL = {{data_table.triggeredRow.EMAIL}};
